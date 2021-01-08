@@ -1,0 +1,9 @@
+﻿## Interface: 40000
+## Title: oUF_barebones
+## Notes: Bare minimum for getting an oUF layout up and running
+## Author: cerement
+## Dependencies: oUF
+## Version: 0.1.0
+## X-Credits: Haste, zork
+
+oUF_barebones.lua
